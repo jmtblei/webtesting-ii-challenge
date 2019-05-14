@@ -1,0 +1,23 @@
+{
+  "name": "webtesting-ii-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": "https://github.com/jmtblei/webtesting-ii-challenge.git",
+  "author": "jmtblei <47536941+jmtblei@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "react-testing-library": "^7.0.0"
+  }
+}
